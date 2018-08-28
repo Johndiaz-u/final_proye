@@ -10,7 +10,7 @@ repositories {
     mavenCentral()
 }
 
-mainClassName="Main"
+mainClassName="com.final_proy.main.Main"
 
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.11'
